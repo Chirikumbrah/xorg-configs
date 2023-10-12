@@ -1,0 +1,6 @@
+UUID=4a4744a3-704d-4339-88c3-f89ba4be250c     /                           ext4     defaults                  0     1
+UUID=1ecfdbe2-63f0-493d-abe0-5d3714f0945b     none                        swap     sw                        0     0
+UUID=C1AB-B339                                /boot/efi                   vfat     defaults                  0     2
+UUID=d7023e69-a57b-498e-850e-e8e7ea246ea2     /home/yr/.yrdata            ext4     defaults,users,exec       0     0
+
+tmpfs                                         /tmp                        tmpfs    defaults,nosuid,nodev     0     0
